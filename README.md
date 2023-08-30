@@ -1,7 +1,7 @@
 # ***LLM dialog***
 
 
-<img src="https://github.com/AlgosErgo0/rinna_dialog/assets/143568512/e0bc33f4-75e4-48dc-9c48-a21cb52f0b02" width="60%">
+<img src="https://github.com/AlgosErgo0/LLM_dialog/assets/143568512/b42828fa-b1b4-48d8-90db-d8b313cc457e" width="60%">
 
 ## [ 概要 ]
 
@@ -22,8 +22,7 @@ rinna株式会社が公開しているGPT言語モデル「rinna3.6B」を用い
 
 以下はA.I.VOICE 紲星あかりでの読み上げ例。
 
-https://github.com/AlgosErgo0/rinna_dialog/assets/143568512/016086c8-3258-4693-94ed-5426394fb296
-
+https://github.com/AlgosErgo0/LLM_dialog/assets/143568512/316cdab9-05d1-41ae-a01b-1948fc46c07c
 
 <br>
 
