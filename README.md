@@ -29,9 +29,11 @@
 
 以下はA.I.VOICE 紲星あかりでの読み上げ例。
 
+https://github.com/AlgosErgo0/LLM_dialog/assets/143568512/07ba97a6-b368-4b4b-abef-bcd1e16f01ee
 
 
-https://github.com/AlgosErgo0/LLM_dialog/assets/143568512/19fffccf-a47e-44a5-bd1b-29a147b6c061
+
+
 
 
 
