@@ -5,16 +5,21 @@
 
 ## [ 概要 ]
 
-rinna株式会社が公開しているGPT言語モデル「rinna3.6B」を用いることで、
+株式会社ELYZAが公開しているGPT言語モデル「ELYZA-japanese-Llama-2-7b」を用いることで、
 ローカル環境のCLI上でAIとチャットを出来るようにしたプログラムです。<br>
 
 <br>
 
 #### 動作確認済モデル
+[V3.7]
 * [rinna/japanese-gpt-neox-3.6b](https://huggingface.co/rinna/japanese-gpt-neox-3.6b)
 * [rinna/japanese-gpt-neox-3.6b-instruction-sft](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft)
 * [rinna/japanese-gpt-neox-3.6b-instruction-sft-v2](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-sft-v2)
 * [rinna/japanese-gpt-neox-3.6b-instruction-ppo](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-ppo)
+
+[V3.8]
+* [elyza/ELYZA-japanese-Llama-2-7b-fast-instruct](https://huggingface.co/elyza/ELYZA-japanese-Llama-2-7b-fast-instruct)
+
 
 <br>
 
@@ -22,7 +27,11 @@ rinna株式会社が公開しているGPT言語モデル「rinna3.6B」を用い
 
 以下はA.I.VOICE 紲星あかりでの読み上げ例。
 
-https://github.com/AlgosErgo0/LLM_dialog/assets/143568512/316cdab9-05d1-41ae-a01b-1948fc46c07c
+
+
+https://github.com/AlgosErgo0/LLM_dialog/assets/143568512/19fffccf-a47e-44a5-bd1b-29a147b6c061
+
+
 
 <br>
 
