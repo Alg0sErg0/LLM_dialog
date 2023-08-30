@@ -1,7 +1,7 @@
 # ***LLM dialog***
 
 
-<img src="https://github.com/AlgosErgo/rinna_dialog/assets/122419883/e0ff2b36-42b7-49fb-ab5f-5ef84b11041b" width="60%">
+<img src="https://github.com/AlgosErgo0/rinna_dialog/assets/143568512/e0bc33f4-75e4-48dc-9c48-a21cb52f0b02" width="60%">
 
 ## [ 概要 ]
 
