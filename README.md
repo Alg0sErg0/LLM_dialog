@@ -22,7 +22,7 @@ rinna株式会社が公開しているGPT言語モデル「rinna3.6B」を用い
 
 以下はA.I.VOICE 紲星あかりでの読み上げ例。
 
-https://github.com/AlgosErgo/rinna_dialog/assets/122419883/7776b07e-fe16-41fd-b428-f819ce704257
+https://github.com/AlgosErgo0/rinna_dialog/assets/143568512/016086c8-3258-4693-94ed-5426394fb296
 
 
 <br>
