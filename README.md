@@ -29,6 +29,9 @@ https://github.com/AlgosErgo/rinna_dialog/assets/122419883/7776b07e-fe16-41fd-b4
 
 ## [ テスト環境 ]
 
+
+#### V3.7 Rinna実行時
+
      ### 最小動作環境
      ・CPU : 指定なし
      ・GPU : VRAM 8GB以下では、3発話程度で強制終了。
