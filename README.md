@@ -29,6 +29,23 @@ https://github.com/AlgosErgo/rinna_dialog/assets/122419883/7776b07e-fe16-41fd-b4
 
 ## [ テスト環境 ]
 
+#### V3.8 Elyza実行時
+
+     ### 最小動作環境
+     ・CPU : 指定なし
+     ・GPU : VRAM 8GB以下では、3発話程度で強制終了。
+     ・RAM : 16GB以下では読み込み時にスワップが発生。
+     ・ディスク : 19GB以上の空き容量。
+                （"model:12.5GB"+"venv:6GB"）
+     
+     ### "cuda"指定時のVRAM使用率推移
+        - RTX4090, VRAM24GB, float16指定, max_length=256設定
+            アイドル時 : 2.4 GB
+            実行時 : 15.5 GB
+            5発話でmax_lengthがフロー : 16.9 GB
+            レスポンスタイム : 1 ~ 3秒 (体感)
+            
+<br>
 
 #### V3.7 Rinna実行時
 
