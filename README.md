@@ -274,8 +274,6 @@ AssistantSeika製作者様
 
 k896951様
 
-なんJLLM部の方々
-/liveuranus/1678930450/l50
 
 
 ## [ Lisence ]
